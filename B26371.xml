@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To my posterity, 1675. (Anno ætatis quadrigesimo secundo.) Not to ... to any bod[y] ... [pub]lickly. I know the booksellers shops abound with numerous volumes upon all subjects, therefore it's vanity in any body in this age to attempt by his writings to treat the world with novelty  ...</title>
+            <author>Lytcott, George, Sir.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26371</idno><idno type="EEBO-CITATION">99828690</idno>
+  <idno type="VID">207581</idno>
+  <idno type="EEBO-PROQUEST">2240869771</idno>
+  
+            <idno type="STC">Wing L3572A</idno>
+            <idno type="PROQUEST">99828690</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828690e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To my posterity, 1675. (Anno ætatis quadrigesimo secundo.) Not to ... to any bod[y] ... [pub]lickly. I know the booksellers shops abound with numerous volumes upon all subjects, therefore it's vanity in any body in this age to attempt by his writings to treat the world with novelty  ...</title>
+                  <author>Lytcott, George, Sir.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 20: G. Lytcott.</note>
+                  <note>Caption title.</note>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Title of the copy cataloged is obscured by the property stamp of the British Library.</note>
+                  <note>Copy cataloged has MS. note at head of p. 1: George Lytcott, K.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207581:1"/>
+            <head>TO MY POSTERITY, 1675.</head>
+            <head type="sub">
+               <hi>(Anno Aetatis Quadragesimo Secundo.)</hi>
+            </head>
+            <p>
+               <hi>Not to be <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d to any Body <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> publickly.</hi>
+            </p>
+            <p>I KNOW the Booksellers Shops abound with numerous Volumes upon all Subjects, Therefore it's vanity in any Body in this Age to attempt by his Writings to Treat the World with Novelty, especially for a Man of my Talent who am but a very ordinary Grammarian; and the Cir<g ref="char:EOLhyphen"/>cumstances of my perturbated Fortune never allow'd me Time to read many Authors (tho' perhaps those I have run over have been of the very best) so
+<pb facs="tcp:207581:2"/>
+               <pb n="1" facs="tcp:207581:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:207581:3"/>that little Reason I have been Master of hath been Acquired chiefly by Conver<g ref="char:EOLhyphen"/>sation and Observation in the Transact<g ref="char:EOLhyphen"/>ing Mercantile Affairs, to which I was by my most Indulgent Mother (but at my own Request) design'd before I was Fifteen Years old: Nevertheless I think it cannot be unacceptable to my Poste<g ref="char:EOLhyphen"/>rity, That I leave them this short Ac<g ref="char:EOLhyphen"/>count of my self.</p>
+            <p>My Father, Sir <hi>John Lytcott,</hi> Dying at <hi>Molsey</hi> in <hi>Surrey,</hi> Anno 1641. before I was quite Eight Years of Age, and leaving me youngest of Fifteen or Six<g ref="char:EOLhyphen"/>teen Children Born tho' of but Nine then Living.</p>
+            <p>I was by Mother (who was Daughter to Sir <hi>Nicholas Overbury</hi> and Sister to Sir <hi>Thomas Overbury</hi> who was Poysoned in the <hi>Tower</hi>) Maintained at a Gram<g ref="char:EOLhyphen"/>mar-School 'till I was near Fifteen Years Old,
+<note place="margin">1650.</note>and then Apprenticed to a Mer<g ref="char:EOLhyphen"/>chant; who in less than Two Years sent me on a Man of War to the English Colonies in <hi>America,</hi> Aboard which Ship I was a little Officer; and in that Voy<g ref="char:EOLhyphen"/>age
+<pb n="3" facs="tcp:207581:3"/>I got some Knowledge in the Art of Navigation as well as in the practical part of a Sailer.</p>
+            <p>At my return for <hi>England</hi> my Master sent me to be one of his Factors at <hi>Lis<g ref="char:EOLhyphen"/>bon,</hi>
+               <note place="margin">1654.</note>from whence after a Year or Two I removed my self for <hi>Italy,</hi> calling in at some of the Ports of <hi>Spain</hi> in my way to <hi>Genoa,</hi> and from thence to <hi>Le<g ref="char:EOLhyphen"/>gorn,</hi> in the Dukedom of <hi>Tuscany,</hi> where I Liv'd some Years manageing a great deal of Business by Commission from Merchants of several Countries; where<g ref="char:EOLhyphen"/>in I took much pains but not without much satisfaction, my Labour being re<g ref="char:EOLhyphen"/>warded with Benefit; afterwards as my Affairs permitted me I took a View of <hi>Rome,</hi> and of most of the best Cities in <hi>Italy.</hi>
+            </p>
+            <p>Then we had the prospect of the Re<g ref="char:EOLhyphen"/>storation of King <hi>Charles</hi> II. so I went for <hi>Lombardy,</hi> and thence for the <hi>Valtolines</hi> Countrey, and <hi>Switzerland,</hi> and so came for <hi>England</hi> through <hi>Germany,</hi> some part of <hi>Flanders</hi> and <hi>Holland</hi> in <hi>June</hi> 1660. being in the Twenty Seventh Year of my Age;
+<pb n="4" facs="tcp:207581:4"/>and about Sixteen Months afterwards, I Married my only Wife, <hi>Sarah,</hi> the only Daughter of Mr. <hi>Richard Culling</hi> of <hi>Exon,</hi> with whom I had a fair Fortune not less than Seven Thousand Pounds; and we might have promis'd our selves all the happiness imaginable for young People that could contain themselves within the bounds of Moderation, but it pleased GOD to convince us of the uncertainty of Worldly Riches by per<g ref="char:EOLhyphen"/>mitting me to be deluded by some Per<g ref="char:EOLhyphen"/>sons who indeed had been my Beneficial Friends; but their Fortunes declining, they endeavour'd to prop themselves up by the Assistance of my Credit and Estate; and at last (their Condition be<g ref="char:EOLhyphen"/>ing much worse than they would own to me) they fail'd, being Indebted at least Eleven or Twelve Thousand Pounds to me here and to my Agent who ma<g ref="char:EOLhyphen"/>naged my Concerns at <hi>Legorn.</hi>
+            </p>
+            <p>This Misfortune made a great Im<g ref="char:EOLhyphen"/>pression in my Mind as well as on my Estate; however it pleased GOD to continue to me the Friendship of all those who had formerly been my Em<g ref="char:EOLhyphen"/>ployers
+<pb n="5" facs="tcp:207581:4"/>and Acquaintance, so that I was not destitute of Means to repair my Losses; but the Fondness of my Dear Wife would not permit her to dispence with my Absence out of <hi>England,</hi> so as to settle my self abroad again, only <hi>Anno</hi> 1663. I took Post for <hi>Dover</hi> thence passing into <hi>France:</hi> I rid from <hi>Paris</hi> to <hi>Madrid</hi> so to <hi>Sevil</hi> and <hi>Cadiz,</hi> where I Embarked on a <hi>Spanish</hi> Ship for <hi>Berba<g ref="char:EOLhyphen"/>does</hi> to take on Board about Seven Hun<g ref="char:EOLhyphen"/>dred <hi>Blacks</hi> for the Kingdom of <hi>Mexico</hi> in the <hi>West-Indies;</hi> and I return'd for <hi>London</hi> in about Fourteen Months, but not without Encountring more Dangers and undergoing more Hardship than in all the former part of my Life:
+<note n="*" place="margin">Hurricane and want of Food and Water: Our Ship struck and sat fast upon the Shoals on the South-side of <hi>Cuba,</hi> 'till we lightened her, and got off.</note> However, my Adventure was not without some Profit as well as a great deal of Peril and new Inconvenien<g ref="char:EOLhyphen"/>ces; if they did not extin<g ref="char:EOLhyphen"/>guish the memory of the old ones, at least they taught me to wear them with more Patience.</p>
+            <p>After my Return Home I Retir'd to a Countrey-Life at <hi>Stratford</hi> under <hi>Old
+<pb n="6" facs="tcp:207581:5"/>Sarum;</hi> The Truth is I was forced to it for want of a good Tenant to my Estate there, where I continued Five or Six Years, <hi>viz.</hi> to the Year 1671. when I obtained the Charge of Comptant-Ge<g ref="char:EOLhyphen"/>neral of the Accompts of His Majesties Customs, wherein I have not without some Care and Pains Officiated above Four Years.</p>
+            <p>Now for as much the Hour of Death is uncertain, and I having Six Children who are all so young, That should I be suddainly taken from them, the Eldest of them would hardly remember their Unfortunate Father: I therefore leave these Remains of my self without look<g ref="char:EOLhyphen"/>ing into the Antiquity of my Family, tho' One of the Five Oldest in <hi>Oxfordshire,</hi> and once possess'd of a very large Estate, which I cannot mention with<g ref="char:EOLhyphen"/>out Accusing my Ancestors of Impru<g ref="char:EOLhyphen"/>dence for having wasted it.
+<note n="*" place="margin">The Estate was wasted before it came to my Father.</note> Therefore I think it more decent to leave their Urns undisturb'd, and to offer my Children this Miscel<g ref="char:EOLhyphen"/>lany of Advertisements, Observations
+<pb n="7" facs="tcp:207581:5"/>and Maxims writ as they intrude themselves into my Thoughts when I got out of my Office; which perhaps may be more acceptable to them, and make more Impression in their Minds, than better digested Matter from a Strangers hand.</p>
+            <p>And in the first place, He that desires to be happy in this World must so or<g ref="char:EOLhyphen"/>der all his Actions that he may always lay himself down to Repose with a quiet Conscience, and awake with a Tranquil Mind: To which no Man can arrive without fearing GOD.</p>
+            <p>
+               <hi>The Fear of the Lord is the Beginning of Wisdom</hi> said <hi>Solomon,</hi> who was the Wisest of Men; and his Proverbs are the Originals of all Honest Policy, as well as of the best Oeconomy, and con<g ref="char:EOLhyphen"/>sequently cannot be too often read over.</p>
+            <p>Of all the Religions that I have ever seen or heard, The Christian seems to me to be the only Religion fit to be em<g ref="char:EOLhyphen"/>braced: And after the perusal of many Books of several Writers (upon their
+<pb n="8" facs="tcp:207581:6"/>various Opinions wherein they alter<g ref="char:EOLhyphen"/>nately take the liberty to stile one ano<g ref="char:EOLhyphen"/>ther Hereticks, Sectaries and Scisma<g ref="char:EOLhyphen"/>ticks) I do adhere to the Church of <hi>England,</hi> as now Establish'd, as being the most pure from <hi>Idolatry,</hi> and most agreeable with Holy Writ and Reason.</p>
+            <p>And therefore I recommend it to those that come after me, next to your Duty to GOD Almighty that to your Parents is to take place: Whoever doth not Dutifully obey, respect and love their Parents, cannot reasonably expect their Children should obey or respect them.</p>
+            <p>In the next place bear good will to all Men, that is, at least so far as not to injure any Man willfully, especially by speaking ill of them behind their backs, and upon meer report; such Discourses being often detected, and then they reflect severely upon the Author; wherefore the most prudent way is not to meddle with other Men, or their Matters, especially so as to disparage them.</p>
+            <pb n="9" facs="tcp:207581:6"/>
+            <p> By all means subdue Passion (it being altogether disagreeable with Prudence, and consequently with Business) because it blinds the Reason, and rifles a Man's Notions.</p>
+            <p>Idleness is the Root of most Evils, and the Subversion of many Families, therefore be sure to entertain your selves with some honest Emploiment or other.</p>
+            <p>And truly as Things offer themselves to my Sense at present, I see no fairer way to raise an Estate (and to avoid Debauchery) than to be bred under a discreet Factor, that hath good Em<g ref="char:EOLhyphen"/>ploiment abroad, either in <hi>Spain, Por<g ref="char:EOLhyphen"/>tugal, Italy</hi> or <hi>Turkey,</hi> &amp;c. where there is a probability of the Apprentices suc<g ref="char:EOLhyphen"/>ceeding his Master in his Commissions, or under a Lawyer so that a Man have an Estate to purchase a Counsellour's Place <hi>at Guild-Hall.</hi>
+            </p>
+            <p>Now that you may be Men of Value and Reputation in the World, I shall offer you a few Advertisements to be regarded in your Youth.</p>
+            <pb n="10" facs="tcp:207581:7"/>
+            <p> Be very cautious of the Company you keep; for he that associates with those who are lewd and vicious, becomes hardened against virtuous Thoughts and good Advice.</p>
+            <p>Avoid Sluggishness; a little Sleep in due season will suffice a Man and a great deal doth but stupifie him, robs him of his very best Time, rendring him less fit for Business.</p>
+            <p>Lying a Bed after a Man is awake, exposes him to wanton Thoughts and a lazy habit.</p>
+            <p>Avoid Unchastity and Intemperance which do not only take a young Man's Mind from his Business but rot and ruin his Body, waste and consume his Stock, which else (by GOD's Blessing and his own diligence might in Time grow to a fair Fortune) but draw upon him the Contempt and Disdain of all indu<g ref="char:EOLhyphen"/>strious, virtuous, Men that know him, to the utter loss of his Reputation.</p>
+            <pb n="11" facs="tcp:207581:7"/>
+            <p> A wise Man would avoid idle Swear<g ref="char:EOLhyphen"/>ing and Cursing (if they were not grie<g ref="char:EOLhyphen"/>vous Sins against the Great Creator) meerly because they are Vices usually incident to shallow-pated Fellows, that supply their want of Sense with new Coin'd Oaths or some of the biggest old ones.</p>
+            <p>And in my Opinion Lying comes little behind the other, nay perhaps 'tis worse, because those who addict them<g ref="char:EOLhyphen"/>selves thereto seldom boggle at an Oath or Two to make their Lies be credited; so they cannot be fit for Humane So<g ref="char:EOLhyphen"/>ciety because Lying lets loose to any Villany, always hoping to get off with a Lie.</p>
+            <p>Decency in Apparel is commendable, but curiosity and niceness in Dressing is Foppish: I remember the wise <hi>Saave<g ref="char:EOLhyphen"/>dra</hi> a <hi>Spaniard</hi> in his <hi>Politick Impresses</hi> says, <hi>That Cloaths are made for Men but Fops are made for their Cloaths:</hi> This sort of Niceness being generally attended with the most detestable Vice of Pride.</p>
+            <pb n="12" facs="tcp:207581:8"/>
+            <p> Tho' fair Writing be not an infallible sign of Ingenuity, yet in my Opinion not to write a good legible hand be<g ref="char:EOLhyphen"/>speaks a Man to be very careless if not indiscreet; It being certain, That any Man may write a good fair hand if he accustoms himself thereto; and often<g ref="char:EOLhyphen"/>times good Writing is a Recommenda<g ref="char:EOLhyphen"/>tion to a good Livelihood: Wherefore I cannot but esteem it Imprudence, in any young Man, to neglect an Art that meerly by custom may be attain'd; and possibly at one Time or other may be more profitable to him than many other Qualifications that are not ac<g ref="char:EOLhyphen"/>quir'd without a great deal more pains.</p>
+            <p>And as well as Writing, Arithmetick is absolutely necessary for Men that are to push their Fortunes in the World; also to understand the stating and keeping Accompts, of which no Man can be a compleat Master but by great Practice in Business.</p>
+            <p>Whatever your Stock is, let your Trade be bounded by it; and whatever your Estate is, let your way of Living
+<pb n="13" facs="tcp:207581:8"/>be within it: For he that over-lives his Revenue, and he that wants Mo<g ref="char:EOLhyphen"/>ney to carry on his Trade are equally unhappy.</p>
+            <p>Vain, Glorious, Self-Commendation renders a Man very weak if not very ridiculous; not but that there are some Cases wherein a Man ought to make the best of himself, but these can be but few particular Cases, which a Man must handle modestly (without Prolixity or Affectation) and not repeat them too often.</p>
+            <p>Keep as few Servants as you can, and let those be good tho' you give greater Wages.</p>
+            <p>Be frugal in your Expences, but not stingy in your Gifts to Servants and poor People.</p>
+            <p>Frequent Drunkenness is a very im<g ref="char:EOLhyphen"/>prudent, pernicious, Evil; It consumes a Man's Estate, spends his Time and destroys his Body; makes him ridicu<g ref="char:EOLhyphen"/>lous in his own Family (and besides,
+<pb n="14" facs="tcp:207581:9"/>rendring him uncapable of Business) it renders him unsafe for Conversation; for he that is drunk knows not what he says or swears.</p>
+            <p>Never boast of your own Dexterity or Agility of Body, because a Man is natural<g ref="char:EOLhyphen"/>ly apt to exceed in that sort of Discourse even to the rendring himself conceited or impertinent; to the begetting Wa<g ref="char:EOLhyphen"/>gers which often produces Quarrels (or at least puts a Man upon straining him<g ref="char:EOLhyphen"/>self beyond what is convenient) and perhaps comes off ridiculous at last.</p>
+            <p>Of all Trades never chose a Land-Soldiers, because they whose Idleness have inclin'd them to a lazy Livelihood (wherein they must expose their Lives for 6 <hi>d.</hi> or 8 <hi>d. per</hi> Day) can hardly be justified to be Rational Creatures: And all Soldiery (except in Defence of a Man's own Countrey) is but a Species of Barbarism.</p>
+            <p>Marriage is an Holy Institution, but it too often proves a very uneasie Mornings Work; and without a lucky Concur<g ref="char:EOLhyphen"/>rence
+<pb n="15" facs="tcp:207581:9"/>of a great many Circumstances, it can hardly be so happy as People generally fancie.</p>
+            <p>Men of vast Fortunes may please themselves with the Person or Face of a Wife, but Men of middle Degree must consider the suitableness of Cir<g ref="char:EOLhyphen"/>cumstances and the great Charge of a Family which is contracted by Wed<g ref="char:EOLhyphen"/>lock; therefore it's but requisite, that the Woman brings a good Fortune with her, that she be virtuous and good humour'd (of a Family of good Re<g ref="char:EOLhyphen"/>pute) without so much Kindred as may beget a chrageable Acquaintance.</p>
+            <p>No Portion is an Equivalent for an ill Temper; nor ought any Man (in common Prudence) to Marry a Wife so ill favour'd that he shall be ashamed of her, nor so much older than himself that she shall look like his Govourness.</p>
+            <p>There may be a great deal said for a Man's Marrying once, but he that hath Children (especially a Son by a former Wife and past Forty Years of Age)
+<pb n="16" facs="tcp:207581:10"/>Marries again, does in my Opinion run a great deal of hazard of being sensured for a Fool or a Knave.</p>
+            <p>Avoid Contracts with Princes and Courtiers (either at Home or Abroad) if you have any Estate of your own, for Beggars are fittest to deal with the Court; and according to my observa<g ref="char:EOLhyphen"/>tion, for one that came well off more than Forty have miscarried.</p>
+            <p>If a Merchant chanceth to gain by the Crown the Prince at one Time or other will get into his Debt; and then he may have leisure to inform himself, That Princes can break their Faith as well as private Men; and tho' they may give good fair Words at first, yet after a little while they will abhor the Face of their Creditors.</p>
+            <p>Avoid Law-Suits by any means, and in order thereto, avoid dealing with litigious Men; avoid uncertain Con<g ref="char:EOLhyphen"/>tracts which always admits of Disputes (and those Disputes commonly grows into Law-Suits) which disturb the
+<pb n="17" facs="tcp:207581:10"/>Tranquility of a Man's Mind, waste his Time and consume his Estate.</p>
+            <p>He that is much concerned in Law oftentimes lives reputed a Knave, and usually dies a Beggar.</p>
+            <p>Few Places at Court are really profi<g ref="char:EOLhyphen"/>table (except those that of course have the Princes Ear, or those that dispense the Money) which I presume occasion'd the <hi>Italian</hi> Proverb, <hi>He that lives at Court dies in the Hospital.</hi>
+            </p>
+            <p>But Offices in the Revenue are worth obtaining; and if a Man behave him<g ref="char:EOLhyphen"/>self honestly and diligently therein, pos<g ref="char:EOLhyphen"/>sibly it may be as good as any other Estate for Life; but those that extort Fees (or delaies Men out of design to pick their Pockets) deserve not only to be dismist, but expos'd upon the Pillory, as well as those that cheat the King or connive at his being defrauded in their Offices.</p>
+            <p>What I have hitherto said, pointing most to the Masculine Gender, perhaps
+<pb n="18" facs="tcp:207581:11"/>my Daughters may expect I should say something to them also; from which in my own Opinion I might be very well excus'd, they having the live<g ref="char:EOLhyphen"/>ly Example of their most Virtuous Mo<g ref="char:EOLhyphen"/>ther to imitate; whom I hope the Almighty God will continue to them 'till they shall all be grown up.</p>
+            <p>Nevertheless, least she should be taken away in their Infancie, they shall have my Advice in a very few Lines, <hi>viz.</hi>
+            </p>
+            <p>Be truly Religious in your Closets as well as at Church, where you ought to behave your selves (Devoutely and decently) without much bussling and expressing the Responsals too loud.</p>
+            <p>Fall out with no Body about their Opinion in Religion.</p>
+            <p>Avoid Pride and Affectation.</p>
+            <p>Avoid an over Airy Behaviour.</p>
+            <pb n="19" facs="tcp:207581:11"/>
+            <p> Wantonness makes room for Censure, and gives opportunity to Temptation.</p>
+            <p>It's but little worse to be a Whore than to give occasion to be thought so.</p>
+            <p>Be affable and curteous with modesty.</p>
+            <p>Be carefull in the choise of Compa<g ref="char:EOLhyphen"/>nions for your constant Converse.</p>
+            <p>Keep your selves emploi'd about some ingenious Housewifery, not excluding Dancing and Singing also if you have Voices adapted to it.</p>
+            <p>What Time you spend in Reading, let it be in Books of sound Divinity (or good Morality) and not in idle Roman<g ref="char:EOLhyphen"/>ces, and Stories of Witches and Wizards and the <hi>Roman Catholick</hi> Legends, which seems to be Nets contriv'd by the Devil to catch Fools of all Sects.</p>
+            <p>When you come to think of Mar<g ref="char:EOLhyphen"/>riage (and that Husbands are proposed to you) relie upon the Judgment of your Mother, or some other prudent Friend, rather than upon your own in your choice.</p>
+            <pb n="20" facs="tcp:207581:12"/>
+            <p> And rather chose a good, prudent, industrious, plain Man (that knows how to get an Estate) than a vain Fop that may have a little left him by his Friends and only knows how to spend it.</p>
+            <p>When you are Married remember you are no more your own Mistress, but that you have put your self under a Governour to whose Humours you must endeavour to bend your self with all diligence imaginable, Wedlock being a Knot that can never be untied but by Death; and if your Humour be not agreeable with your Husbands, you must expect to live miserably.</p>
+            <p>Finally, I tell you all my Sons and Daughters (and those that shall be descended from you, to whose view These shall come) That you will never answer it to GOD nor Nature if they have not some weight with you, because they are the kind Lecacy of your most kind Father</p>
+            <closer>
+               <signed>G. Lytcott.</signed>
+            </closer>
+            <pb facs="tcp:207581:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
